@@ -37,8 +37,7 @@ Alternatively, you can download the ZIP file from GitHub and extract it to your 
    streamlit run app.py
    ```
 
-
-[Watch the demo video](app demo.mp4)
+https://github.com/user-attachments/assets/7616d512-efd0-4d86-adc0-c32bfe54ea7d
 
 
 
